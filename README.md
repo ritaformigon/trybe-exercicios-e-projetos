@@ -17,7 +17,7 @@ Esse primeiro módulo ensinará tudo que você precisa saber para iniciar a carr
 
 ##### Seção 01: [Unix, Shell e Git]()
 
-+ [ ] dia 01: _Unix & Shell_
++ [x] dia 01: _Unix & Shell_
 + [ ] dia 02: _Git - O que é e para que serve_
 + [ ] dia 03: _Git & GitHub - Entendendo os comandos_
 
