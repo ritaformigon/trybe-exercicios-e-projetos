@@ -19,7 +19,7 @@ Esse primeiro módulo ensinará tudo que você precisa saber para iniciar a carr
 
 + [x] dia 01: _Unix & Shell_
 + [x] dia 02: _Git - O que é e para que serve_
-+ [ ] dia 03: _Git & GitHub - Entendendo os comandos_
++ [x] dia 03: _Git & GitHub - Entendendo os comandos_
 
 
 ##### Seção 02: [Introdução à HTML & CSS]()
