@@ -27,7 +27,7 @@ Esse primeiro módulo ensinará tudo que você precisa saber para iniciar a carr
 + [x] dia 01: _HTML & CSS - Estruturas de página_
 + [x] dia 02: _HTML & CSS - Primeiros passos em CSS_
 + [x] dia 03: _HTML & CSS - Seletores e posicionamento_
-+ [ ] dia 04: _HTML Semântico_
++ [x] dia 04: _HTML Semântico_
 + [ ] dia 05: _Projeto - Lessons Learned_
 
 
