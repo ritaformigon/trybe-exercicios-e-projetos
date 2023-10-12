@@ -34,7 +34,7 @@ Esse primeiro módulo ensinará tudo que você precisa saber para iniciar a carr
 ##### Seção 03: [Introdução ao JavaScript]()
 
 + [x] dia 01: _Primeiros passos no JavaScript_
-+ [ ] dia 02: _Array e estrutura de repetição_
++ [x] dia 02: _Array e estrutura de repetição_
 + [ ] dia 03: _Funções_
 + [ ] dia 04: _Objetos_
 + [ ] dia 05: _JSON e dia de prática_
