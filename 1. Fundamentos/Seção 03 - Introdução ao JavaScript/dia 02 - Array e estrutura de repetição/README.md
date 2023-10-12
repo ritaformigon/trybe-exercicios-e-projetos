@@ -1,0 +1,1 @@
+- Exercícios onde a utilização de `array` e `for` são necessárias.
