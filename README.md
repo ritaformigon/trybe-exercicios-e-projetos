@@ -36,7 +36,7 @@ Esse primeiro módulo ensinará tudo que você precisa saber para iniciar a carr
 + [x] dia 01: _Primeiros passos no JavaScript_
 + [x] dia 02: _Array e estrutura de repetição_
 + [x] dia 03: _Funções_
-+ [ ] dia 04: _Objetos_
++ [x] dia 04: _Objetos_
 + [ ] dia 05: _JSON e dia de prática_
 + [ ] dia 06: _Projeto - Supermercado Pirilampo_
 
