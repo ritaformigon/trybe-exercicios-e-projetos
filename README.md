@@ -38,7 +38,7 @@ Esse primeiro módulo ensinará tudo que você precisa saber para iniciar a carr
 + [x] dia 03: _Funções_
 + [x] dia 04: _Objetos_
 + [x] dia 05: _JSON e dia de prática_
-+ [ ] dia 06: _Projeto - Supermercado Pirilampo_
++ [x] dia 06: _Projeto - Supermercado Pirilampo_
 
 
 ##### Seção 04: [JavaScript - DOM, Eventos e Web Storage]()
